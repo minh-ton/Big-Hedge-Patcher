@@ -1,9 +1,9 @@
-<img align="right" width=15% src="https://github.com/minh-ton/Big-Hedge-Patcher/blob/main/Big%20Hedge/Assets.xcassets/AppIcon.appiconset/512.png?raw=true">
+<img align="right" width=20% src="https://github.com/minh-ton/Big-Hedge-Patcher/blob/main/Big%20Hedge/Assets.xcassets/AppIcon.appiconset/512.png?raw=true">
 
 # Big Hedge Patcher
 Big Hedge is an easy-to-use tool that allows anyone to install macOS 11 Big Sur on unsupported Macs.
 
-<br><img height="300" src="https://github.com/minh-ton/Big-Hedge-Patcher/blob/main/Screenshots/mainwindow.png?raw=true"><br>
+<br><img width="480" src="https://github.com/minh-ton/Big-Hedge-Patcher/blob/main/Screenshots/mainwindow.png?raw=true"><br>
 
 ## Background
 Big Hedge, originally known as [MicropatcherAutomator](https://github.com/moosethegoose2213/automator-for-barrykn-micropatcher), is a project that I co-created with 
@@ -69,7 +69,7 @@ Once the download is complete, open the application.
 
 <br>
 <div align="center">
-  <img height="300" src="https://github.com/minh-ton/Big-Hedge-Patcher/blob/main/Screenshots/mainwindow.png?raw=true">
+  <img width="480" src="https://github.com/minh-ton/Big-Hedge-Patcher/blob/main/Screenshots/mainwindow.png?raw=true">
 </div>
 <br>
 
@@ -77,7 +77,7 @@ Continue to proceed to the `macOS Big Sur Installer App` page.
 
 <br>
 <div align="center">
-  <img height="300" src="https://github.com/minh-ton/Big-Hedge-Patcher/blob/main/Screenshots/installer_app_0.png?raw=true">
+  <img width="480" src="https://github.com/minh-ton/Big-Hedge-Patcher/blob/main/Screenshots/installer_app_0.png?raw=true">
 </div>
 <br>
 
@@ -112,7 +112,7 @@ On the next page, you will see three different methods to install macOS Big Sur 
 
 <br>
 <div align=center>
-  <img height="300" src="https://github.com/minh-ton/Big-Hedge-Patcher/blob/main/Screenshots/installation_method_0.png?raw=true">
+  <img width="480" src="https://github.com/minh-ton/Big-Hedge-Patcher/blob/main/Screenshots/installation_method_0.png?raw=true">
 </div>
 <br>
 
@@ -157,7 +157,7 @@ This process will take several minutes to complete. If successful, you should se
 
 <br>
 <div align=center>
-  <img height="300" src="https://github.com/minh-ton/Big-Hedge-Patcher/blob/main/Screenshots/create_bootable_success.png?raw=true">
+  <img width="480" src="https://github.com/minh-ton/Big-Hedge-Patcher/blob/main/Screenshots/create_bootable_success.png?raw=true">
 </div>
 <br>
 
@@ -167,7 +167,7 @@ You will need to restart your Mac and boot while holding the Option key. You sho
 
 <br>
 <div align=center>
-  <img height="400" src="https://github.com/minh-ton/Big-Hedge-Patcher/blob/main/Screenshots/boot_picker_0.png?raw=true">
+  <img width="600" src="https://github.com/minh-ton/Big-Hedge-Patcher/blob/main/Screenshots/boot_picker_0.png?raw=true">
 </div>
 <br>
 
@@ -178,7 +178,7 @@ Hold the Option key while powering on your Mac again. This time, select `Install
 
 <br>
 <div align=center>
-  <img height="400" src="https://github.com/minh-ton/Big-Hedge-Patcher/blob/main/Screenshots/boot_picker_1.png?raw=true">
+  <img width="600" src="https://github.com/minh-ton/Big-Hedge-Patcher/blob/main/Screenshots/boot_picker_1.png?raw=true">
 </div>
 <br>
 
@@ -199,7 +199,7 @@ You will need to restart your Mac and boot while holding the Option key. Then se
 
 <br>
 <div align=center>
-  <img height="400" src="https://github.com/minh-ton/Big-Hedge-Patcher/blob/main/Screenshots/recovery_view_1.png?raw=true">
+  <img width="600" src="https://github.com/minh-ton/Big-Hedge-Patcher/blob/main/Screenshots/recovery_view_1.png?raw=true">
 </div>
 <br>
 
@@ -207,7 +207,7 @@ In the Recovery menu, select `Post-Install Automator` and click **Continue**.
 
 <br>
 <div align=center>
-  <img height="400" src="https://github.com/minh-ton/Big-Hedge-Patcher/blob/main/Screenshots/postautomator_view.png?raw=true">
+  <img width="600" src="https://github.com/minh-ton/Big-Hedge-Patcher/blob/main/Screenshots/postautomator_view.png?raw=true">
 </div>
 <br>
 
@@ -246,7 +246,7 @@ Follow the on-screen instructions to install macOS Big Sur.
 
 <br>
 <div align=center>
-  <img height="300" src="https://github.com/minh-ton/Big-Hedge-Patcher/blob/main/Screenshots/install_to_machine_success.png?raw=true">
+  <img width="480" src="https://github.com/minh-ton/Big-Hedge-Patcher/blob/main/Screenshots/install_to_machine_success.png?raw=true">
 </div>
 <br>
 
@@ -256,10 +256,10 @@ After the installation is completed, reopen Big Hedge. On the menubar, select `P
 
 <br>
 <div align=center>
-  <img width="50%" src="https://github.com/minh-ton/Big-Hedge-Patcher/blob/main/Screenshots/install_to_machine_menu.png?raw=true">
+  <img width="480" src="https://github.com/minh-ton/Big-Hedge-Patcher/blob/main/Screenshots/install_to_machine_menu.png?raw=true">
 </div>
 <div align=center>
-  <img width="50%" src="https://github.com/minh-ton/Big-Hedge-Patcher/blob/main/Screenshots/post_install.png?raw=true">
+  <img width="480" src="https://github.com/minh-ton/Big-Hedge-Patcher/blob/main/Screenshots/post_install.png?raw=true">
 </div>
 <br>
 
@@ -287,7 +287,7 @@ Click **Continue** and browse for the location to save the output disk image.
 
 <br>
 <div align=center>
-  <img height="300" src="https://github.com/minh-ton/Big-Hedge-Patcher/blob/main/Screenshots/create_image_2.png?raw=true">
+  <img width="480" src="https://github.com/minh-ton/Big-Hedge-Patcher/blob/main/Screenshots/create_image_2.png?raw=true">
 </div>
 <br>
 
@@ -303,7 +303,7 @@ Once done, you can use the disk image to restore to a USB/CD/DVD drive using [Di
 
 <br>
 <div align=center>
-  <img height="300" src="https://github.com/minh-ton/Big-Hedge-Patcher/blob/main/Screenshots/create_image_success.png?raw=true">
+  <img width="480" src="https://github.com/minh-ton/Big-Hedge-Patcher/blob/main/Screenshots/create_image_success.png?raw=true">
 </div>
 <br>
 
